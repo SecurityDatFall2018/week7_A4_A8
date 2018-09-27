@@ -4,7 +4,7 @@ NOT YET COMPLETE
 ## What to Read
 
 #### A4
-- [Top_10-2017_A4-XML_External_Entities_(XXE](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE)<9
+- [Top_10-2017_A4-XML_External_Entities_(XXE)](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE)<9
 - [XML External Entity (XXE) Processing](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing)
 
 #### A8
