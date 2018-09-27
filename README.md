@@ -18,7 +18,7 @@ NOT YET COMPLETE
 See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7gUeRFMmRd9lciD6uQMIfkw3Om3DrKcjR0k/edit?usp=sharing) for A4 + A8, for the best description of learnings goals for this day
 
 ## Exercises
-[A4 TBD](https://docs.google.com/document/d/182OJalt680qjzeeXk7yeErrj6UJM32-4HMKy9Q5vKEY/edit?usp=sharing)
-[A8 TBD](https://docs.google.com/document/d/1KfbZYetSuOq83V9G5K2i3b9YKDGPTFj-TXMwihgJ7QA/edit?usp=sharing)
+- [A4](https://docs.google.com/document/d/182OJalt680qjzeeXk7yeErrj6UJM32-4HMKy9Q5vKEY/edit?usp=sharing)
+- [A8](https://docs.google.com/document/d/1KfbZYetSuOq83V9G5K2i3b9YKDGPTFj-TXMwihgJ7QA/edit?usp=sharing)
 
 
