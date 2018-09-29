@@ -1,5 +1,6 @@
 # week7_A4_A8
-NOT YET COMPLETE
+
+_Both of these OWASP Security Risks include topics (XML and Java Deserialization) which we haven't covered (or only slightly scratched) at your previous three semesters. For this reason, this lesson will have its main focus on an introduction to the two topics but using examples that demonstrate their possible vulnerabilities._
 
 ## What to Read
 
