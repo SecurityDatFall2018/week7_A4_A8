@@ -2,6 +2,9 @@
 
 _Both of these OWASP Security Risks include topics (XML and Java Deserialization) which we haven't covered (or only slightly scratched) at your previous three semesters. For this reason, this lesson will have its main focus on an introduction to the two topics but using examples that demonstrate their possible vulnerabilities._
 
+## Snippet file for today
+[snippet](https://docs.google.com/document/d/170kNF9HzUceQw2ZYn21q-CIgHFxvalbVNVdiAvqDjmI/edit?usp=sharing)
+
 ## What to Read
 
 #### A4
